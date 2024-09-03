@@ -1,0 +1,16 @@
+/* App.css */
+/* App.css */
+
+body {
+    background-color: #1d46c25e; /* Change this to your desired background color */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #bfc7ce; /* Match the background color with the body */
+}
