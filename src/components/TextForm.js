@@ -21,6 +21,7 @@ export default function TextForm() {
   <textarea className="form-control" value={text} onChange={onChange} id="Mytext" rows="6" columns="10"></textarea>
 </div>
 <button className="btn btn-primary" onClick={Upclick} >enter</button>
+&nbsp;&nbsp;
 <button className="btn btn-primary" onClick={Downclick} >back</button>
 
 </div>
